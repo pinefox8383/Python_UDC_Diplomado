@@ -1,6 +1,7 @@
 # Modulo 7 - Caso Práctico Python
 
-Análisis de la Tripulación del accidente del "Titanic"
+Análisis de la Tasa de Mortalidad de Adultos 2019-2021
+
 
 ## Objetivo del Análisis
 
