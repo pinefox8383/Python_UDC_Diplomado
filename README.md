@@ -2,6 +2,9 @@
 
 Análisis de la Tasa de Mortalidad de Adultos 2019-2021
 
+Repositorio auxiliar de archivos del proyecto en Google Drive
+https://drive.google.com/drive/folders/1vx1ERxeEpqyxxXN5_NLXCJpFrSQc9KKN?usp=drive_link
+
 
 ## Objetivo del Análisis
 
@@ -20,6 +23,7 @@ También que debe haber una relación muy evidente entre la inversión en salud 
 Respondiendo a la hipótesis planteada se logró determinar que la variable objetivo "Tasa de Mortalidad", es poco impactada por lo factores elegidos en la hipótesis como: PIB del Pais e Inversión en Salud ya que los datos registrados en el dataset realmente están muy dispersos o aleatorios.
 La correlación con las otras variables es muy baja, entendiendo que cada país por cuestiones de cultura, nivel de desarrollo económico, idiosincrasia , desarrollo social es diferente en cada uno de éstos y evidentemente causaran una aleatoriedad en la Tasa de Mortalidad
 Quizá se lograría un resultado más certero haciendo predicciones de la tasa de mortalidad, con registros del mismo país durante varios años para poder tener una correlación con más impacto entre las otras variables factores.
+
 
 
 ### Análisis Exploratorio
